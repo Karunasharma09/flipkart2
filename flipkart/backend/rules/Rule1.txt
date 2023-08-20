@@ -1,0 +1,3 @@
+If there is a failed Authentication 
+eg - Date: 2023-08-20 15:30:45 Username: jdoe IP Address: 192.168.1.100 Authentication Result: Failed Reason: Incorrect password
+The Log is uncompliant and the action taken should be to monitor the activity.
